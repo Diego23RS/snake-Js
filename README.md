@@ -2,10 +2,10 @@
 Jogo da cobrinha desenvolvido em Html, CSS e JS.
 <br>
 ## Inicio do Jogo!
-<p>![](https://apportalpe.000webhostapp.com/github-diego/Inicia.png)</p>
+![](https://apportalpe.000webhostapp.com/github-diego/Inicia.png)
 <br>
 ## Inicio do Jogo!
-<p>![](https://apportalpe.000webhostapp.com/github-diego/final.png)</p>
+![](https://apportalpe.000webhostapp.com/github-diego/final.png)
 
 # Fonte
 
