@@ -1,15 +1,47 @@
-# snake-Js
-Jogo da cobrinha desenvolvido em Html, CSS e JS.
-<br>
-## Inicio do Jogo!
-![](https://apportalpe.000webhostapp.com/github-diego/Inicia.png)
-<br>
-## Fim do Jogo!
-![](https://apportalpe.000webhostapp.com/github-diego/final.png)
+<h1 align="center"> 
+    Projeto Recriando o jogo da cobrinha com JavaScript - DIO 
+</h1>
 
-# Fonte
+<p align="center">
+  <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about">About</a>
+</p>
 
-<p align="left">
-    Plataforma: <a href="https://web.digitalinnovation.one/home" rel="nofollow">Digital Innovation One</a> <br> 
-    Desafio: <a href="https://web.digitalinnovation.one/course/desafio-pratico-recriando-o-jogo-da-cobrinha-com-javascript/learning/66d83831-bae1-45f7-b2ea-af7d64d5d4f5?back=/track/desenvolvedor-front-end-reactjs&amp;bootcamp_id=abf8f19f-691b-4dac-a14a-11ddcf3a14cd" rel="nofollow">Recriando o Jogo da Cobrinha com JavaScript</a>
-  </p>
+<p align="center">
+<img src="https://apportalpe.000webhostapp.com/github-diego/Inicia.png">
+</p>
+<p align="center">
+<img src="https://apportalpe.000webhostapp.com/github-diego/final.png">
+</p>
+
+
+## 📚 Sobre
+
+<p align="justify">Repositório dedicado a resoluções de todos os exercícios propostos para execução do Projeto: Recriando o jogo da cobrinha com JavaScript no <b>BootCamp HTML Web Developer da Digital Innovation One</b>. O projeto foi ministrado por Gabriela Pinheiro.</p>
+
+*Para ter acesso a este conteúdo, acesse a [**DIO**](https://web.digitalinnovation.one)*                                  
+
+## 🚀 Tecnologias
+
+O projeto foi desenvolvido a partir das tecnologias:
+
+- *HTML5*
+- *CSS3*
+- *JS*
+
+
+## 📚 About
+
+*<p align="justify">Dedicated repository to solving all the exercises proposed for the Project Execution: Recreating the snake game with JavaScript, contained in **Digital Innovation One's BootCamp, HTML Web Developer**. The project was taught by Gabriela Pinheiro.</p>*
+
+*To access this content, visit [**DIO**](https://web.digitalinnovation.one/)*                                  
+
+
+## 🚀 Technologies
+
+*The project was developed based on technologies:*
+
+- *HTML5*
+- *CSS3*
+- *JS*
