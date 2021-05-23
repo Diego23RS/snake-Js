@@ -4,7 +4,7 @@ Jogo da cobrinha desenvolvido em Html, CSS e JS.
 ## Inicio do Jogo!
 ![](https://apportalpe.000webhostapp.com/github-diego/Inicia.png)
 <br>
-## Inicio do Jogo!
+## Fim do Jogo!
 ![](https://apportalpe.000webhostapp.com/github-diego/final.png)
 
 # Fonte
