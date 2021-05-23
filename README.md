@@ -1,8 +1,11 @@
 # snake-Js
 Jogo da cobrinha desenvolvido em Html, CSS e JS.
-![](https://apportalpe.000webhostapp.com/github-diego/Inicia.png)
-
-![](https://apportalpe.000webhostapp.com/github-diego/final.png)
+<br>
+## Inicio do Jogo!
+<p>![](https://apportalpe.000webhostapp.com/github-diego/Inicia.png)</p>
+<br>
+## Inicio do Jogo!
+<p>![](https://apportalpe.000webhostapp.com/github-diego/final.png)</p>
 
 # Fonte
 
