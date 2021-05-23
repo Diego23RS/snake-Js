@@ -1,0 +1,36 @@
+
+body { 
+background: url(image/background.jpg) no-repeat center center fixed ;
+background-size: cover;
+-webkit-background-size: cover; 
+-moz-background-size: cover;
+-o-background-size: cover;
+overflow-x: hidden; 
+}
+
+canvas{
+border: 3px solid darkgreen;
+border-radius: 8px;
+}
+.jogo-box {
+text-align:center;   
+}
+
+.jogo-info {
+text-align:center; 
+font-family:arial;
+line-height:24px;
+}
+
+.fim-jogo{
+position:absolute;
+width: 100%;
+top: 35%;
+padding: 15px;
+display: none;
+background-color: #33CCFF;
+border-radius: 10px;
+text-align: center;
+font-size: 60px;
+font-style: arial;
+}
